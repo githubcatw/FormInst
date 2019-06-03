@@ -24,6 +24,7 @@ namespace FormInst
         const string productName = "My Product";    // The product's name.
         const string companyName = "Software";      // The company's name.
         bool is32Bit = true;                        // Is the product 32-bit?
+        bool useSDInstaller = true;                 // Use a Setup and Deployment setup.exe?
         
         // Do not change anything below this line.
         const string introText = "This wizard will install {R} on your computer.";
