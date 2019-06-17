@@ -1,3 +1,6 @@
+# What?!? FormInst is evolving?!? [Check out InstUI!](https://github.com/githubcatw/InstUI)
+
+
 # FormInst
 A simple Windows Forms-based installer.
 
